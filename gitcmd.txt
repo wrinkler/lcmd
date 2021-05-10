@@ -1,0 +1,2 @@
+git clone git@github.com:wrinkler/lcmd.git#克隆仓库
+git pull origin#取回远程主机分支
