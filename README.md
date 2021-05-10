@@ -1,0 +1,2 @@
+# lcmd
+linux common command
