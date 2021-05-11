@@ -1,6 +1,3 @@
 #0510#often_cmd
 echo "text">>file#创建新文件file
 grep
-mv
-cp
-mkdir
